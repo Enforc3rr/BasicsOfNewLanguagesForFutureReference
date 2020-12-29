@@ -1,0 +1,9 @@
+body{
+    text-align:center;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-decoration: underline;
+    background: rgb(1,37,44);
+    background: linear-gradient(90deg, rgba(1,37,44,1) 0%, rgba(18,221,252,1) 94%);
+}
